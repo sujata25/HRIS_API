@@ -1,0 +1,5 @@
+baseUrl: https://api-s-hris.qainfotech.com
+baseport : 8443
+authendpoint : /auth/authenticate
+
+timesheetendpoint : /auth/timesheet

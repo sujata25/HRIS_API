@@ -1,0 +1,12 @@
+|code|1|
+|status|200|
+|message|Token generated|
+|data|{"work_email":"sharadjoshi@qainfotech.com","isAuthorizedForSendMessage":false,"isAuthorizedForScan":false,"emp_name":"Swati Sabharwal","emp_number":1314,"enableSearch":0,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXUyJ9.eyJpc3MiOiJxYWl0LmNvbSIsImV4cCI6MTU2MDQ5NTYyNSwibmFtZSI6IkhSSVMgQVBJcyIsImFkbWluIjpmYWxzZSwidWRpZCI6IjFhYTQ0NTE4YTE3OTYxNmMiLCJzdWIiOjEzMTQsImlhdCI6IjE1Mjg5NTk2MjUiLCJuYmYiOiIxNTI4OTU5NjI1IiwianRpIjoiMDVmZjgxZjFiYjg1NzhiZmYyMGUyM2M5MGUxZDM2ZTEifQ.MzUwN2Y3NGRmNzA1YmE2ZTRjMDJmMjI5MGEzYjkzZTE4MWFmMDAwMzljOGQ1ZTQ0NWMxMjAwZDFiODVmMmI0Mg","emp_pic":"https://api-s-hris.qainfotech.com:8443/assets/empImg/spot_1314.jpeg"}|
+|work_email|sharadjoshi@qainfotech.com|
+|isAuthorizedForSendMessage|false|
+|isAuthorizedForScan|false|
+|emp_name|Swati Sabharwal|
+|emp_number|1314|
+|enableSearch|0|
+|token|eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXUyJ9.eyJpc3MiOiJxYWl0LmNvbSIsImV4cCI6MTU2MDQ5NTYyNSwibmFtZSI6IkhSSVMgQVBJcyIsImFkbWluIjpmYWxzZSwidWRpZCI6IjFhYTQ0NTE4YTE3OTYxNmMiLCJzdWIiOjEzMTQsImlhdCI6IjE1Mjg5NTk2MjUiLCJuYmYiOiIxNTI4OTU5NjI1IiwianRpIjoiMDVmZjgxZjFiYjg1NzhiZmYyMGUyM2M5MGUxZDM2ZTEifQ.MzUwN2Y3NGRmNzA1YmE2ZTRjMDJmMjI5MGEzYjkzZTE4MWFmMDAwMzljOGQ1ZTQ0NWMxMjAwZDFiODVmMmI0Mg|
+|emp_pic|https://api-s-hris.qainfotech.com:8443/assets/empImg/spot_1314.jpeg|

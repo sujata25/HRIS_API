@@ -1,0 +1,21 @@
+baseUrl: http://qainfoauto.mpxdemo.com/administration/
+customersetupurl: http://qainfoauto.mpxdemo.com/administration/customers/setup
+
+  
+username: anmolagarwal@qainfotech.com 
+password: Password0
+
+sample_code: automation_code
+sample_name: automation_name
+
+
+category_individual: main_content_ctl00_chkIsIndividualCategory
+category_organization: main_content_ctl00_chkIsOrganizationCategory
+category_guest: main_content_ctl00_chkIsGuestCategory
+category_committee: main_content_ctl00_chkIsCommitteeCategory
+
+  
+email:
+    recepients: 
+        recepient1: anmolagarwal@qainfotech.com
+       
