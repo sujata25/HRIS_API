@@ -133,7 +133,8 @@
 				<version>2.11</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>src/test/resources/testngxml/${testngxml}</suiteXmlFile>
+						<!--<suiteXmlFile>src/test/resources/testngxml/${testngxml}</suiteXmlFile>-->
+						<suiteXmlFile>src/test/resources/testngxml/TestNG.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 				<executions>
